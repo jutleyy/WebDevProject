@@ -1,0 +1,89 @@
+.banner{
+padding-top: 80px;
+padding-bottom: 100px;
+
+}
+
+
+h1{
+text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+        font-size: 70px;
+            color:rgb(30, 32, 32);
+}
+
+h2{
+text-align: left;
+padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+             color:rgb(41, 56, 56);
+}
+
+li{
+
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+
+}
+
+h3{
+font-size:30px;
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 30px;
+}
+
+h2{
+    font-size: 30px;
+text-align: center;
+padding-right: 40px;
+color: black;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video-container iframe {
+    width: 560px; 
+    height: 315px; 
+}
+
+body{
+background-color:rgb(225, 234, 244);
+
+
+}
+
+.tableauPlaceholder {
+    width: 20px;
+    max-width: 1100px; 
+    margin: 0 auto; 
+    position: relative; 
+    padding-bottom: 500px;
+}
+
+.scroll{
+    text-decoration: none;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 40px;
+}
+
+.header{
+    font-size: 20px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    color: slategrey;
+}
